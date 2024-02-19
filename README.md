@@ -89,6 +89,6 @@ Finally, we'll be using a PowerShell script to add 10,000 users. Go back into DC
 
 
 <p>
-Continued <a href="https://github.com/TrevorBrandtIT/dns-intuition">here.</a> Thank you for following along!
+Continued <a href="https://github.com/TrevorBrandtCS/dns-intuition">here.</a> Thank you for following along!
 </p>
 <br />
